@@ -1,17 +1,11 @@
-# Vue Crash Course (Task Tracker)
+# Vue composition API vs options API
 
-> This is the project from the YouTube crash course
+> This project compares the difference between options API and composition API.
 
 ## Project setup
 
 ```
 npm install
-```
-
-## Run the JSON-Server backend (http://localhost:5000)
-
-```
-npm run backend
 ```
 
 ## Run the Vue dev server (http://localhost:8080)
